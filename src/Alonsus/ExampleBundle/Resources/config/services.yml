@@ -1,0 +1,7 @@
+parameters:
+#    alonsus_example.example.class: Alonsus\ExampleBundle\Example
+
+services:
+#    alonsus_example.example:
+#        class: %alonsus_example.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

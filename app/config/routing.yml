@@ -1,0 +1,4 @@
+alonsus_example:
+    resource: "@AlonsusExampleBundle/Resources/config/routing.yml"
+    prefix:   /
+

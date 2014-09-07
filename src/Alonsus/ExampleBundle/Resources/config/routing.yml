@@ -1,0 +1,3 @@
+alonsus_example_homepage:
+    path:     /generar-pdf
+    defaults: { _controller: AlonsusExampleBundle:Default:index }
